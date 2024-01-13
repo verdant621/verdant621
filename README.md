@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">Language</h4>
+<h3 align="left">Language</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h4 align="left">Dev Ops</h4>
+<h3 align="left">Dev Ops</h3>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-<h4 align="left">Services</h4>
+<h3 align="left">Services</h3>
 
 ###
 
@@ -95,24 +95,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
-
-###
-
-<h4 align="left">Contact Information</h4>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/alex-lin-32987b295" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="alexlin0621" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="alex3621lin@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
