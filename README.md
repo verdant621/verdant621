@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Welcome to visit my Github!!!</h1><br><h2 align="center">As an AI engineer, I've some experience including ML, DL and etc.<br>Let's share knowledge and try the remarkable development of AI.</h2>
+<h1 align="center">Welcome to visit my Github!!!</h1><h2 align="center">As an AI engineer, I've some experience including ML, DL and etc.<br>Let's share knowledge and try the remarkable development of AI.</h2>
 
 ###
 
