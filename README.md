@@ -2,8 +2,6 @@
 
 <h1 align="center">Let's share knowledge and try the remarkable Success in AI World.</h1>
 
-<br clear="both">
-
 <h3 align="left">Languages</h3>
 
 ###
