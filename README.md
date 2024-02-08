@@ -39,7 +39,8 @@
 ###
 
 <h3 align="left">Dev Ops & Services</h3>
-
+<h3 align="left">This is me pleas, send me mail.</h3>
+<h3 align="left">lohtojulius747@gmail.com</h3>
 ###
 
 <div align="left">
